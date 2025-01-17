@@ -13,13 +13,14 @@ This repository serves as a resource for students and enthusiasts to experiment 
 ## Practical List
 
 ### Practical 1: Image Basics and Transformations  
-#### 1. **Convert Image to Matrix**  
+#### **Convert Image to Matrix**  
 - Convert an image into its corresponding matrix representation.  
 - Display the image in:
   - **RGB format**
   - **Grayscale format**
 
-#### 2. **Perform 2D Transformations on an Image**  
+### Practical 2: 2D Transformations  
+#### **Perform 2D Transformations on an Image**  
 - Apply the following transformations to an image:
   - **Translation**
   - **Rotation**
