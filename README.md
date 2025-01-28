@@ -27,6 +27,9 @@ This repository serves as a resource for students and enthusiasts to experiment 
   - **Shearing**
   - **Reflection**
 
+### Practical 3:
+    To apply and analyze the effects of Gaussian, Sobel, and Median filters on digital images, demonstrating their respective functionalities in noise reduction, edge 
+    detection, and noise removal.
 ---
 
 ### Future Practicals
