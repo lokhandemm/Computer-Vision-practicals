@@ -2,6 +2,7 @@
 
 This repository contains practical experiments designed to provide hands-on experience with computer vision algorithms. The practicals focus on exploring image processing techniques, feature extraction, and video processing tasks, ensuring a comprehensive understanding of the core concepts in computer vision.
 
+---
 
 ## Overview
 
@@ -27,14 +28,30 @@ This repository serves as a resource for students and enthusiasts to experiment 
   - **Shearing**
   - **Reflection**
 
-### Practical 3:
-   - To apply and analyze the effects of Gaussian, Sobel, and Median filters on digital images, demonstrating their respective functionalities in noise reduction, edge 
-    detection, and noise removal.
+### Practical 3: Image Filtering  
+- Apply and analyze the effects of:
+  - **Gaussian filter** (for noise reduction)
+  - **Sobel filter** (for edge detection)
+  - **Median filter** (for noise removal)
+
+### Practical 4: Morphological Operations  
+- Perform morphological operations on binary and grayscale images:
+  - **Erosion** and **Dilation**
+  - **Opening** and **Closing**
+  - **Top-hat** and **Black-hat Transformations**
+- Analyze their effects in noise removal and shape extraction.
+
+### Practical 5: Automated MRI Preprocessing System  
+- Develop a preprocessing pipeline for MRI images, which includes:
+  - **Automated Cropping** to remove unwanted regions.
+  - **2D Transformations** (scaling, rotation) for standardizing image dimensions.
+
 ---
 
 ### Future Practicals
 
 The repository will include additional practicals such as:
+
 1. **Feature Extraction and Object Recognition**
    - Use algorithms like SIFT, SURF, and ORB for feature detection.
    - Implement object and face detection tasks.
@@ -59,16 +76,6 @@ By working through these practicals, you will:
 1. Implement and test fundamental computer vision algorithms.
 2. Extract and analyze features for object detection and recognition tasks.
 3. Perform image alignment, pattern analysis, and dimensionality reduction.
-4. Execute video processing tasks, including motion computation and tracking.
+4. Execute video processing tasks, including motion com
 
----
-
-## Tools and Libraries
-
-The practicals use the following tools:
-- **Python** (Primary language)
-- **OpenCV** (Computer vision library)
-- **NumPy** (For numerical operations)
-
----
 
