@@ -1,6 +1,6 @@
 # Computer Vision Practicals
     
-This repository contains practical experiments designed to provide hands-on experience with computer vision algorithms. The practicals focus on exploring image processing techniques, feature extraction, and video processing tasks, ensuring a comprehensive understanding of the core concepts in computer vision.
+This repository contains practical experiments designed to provide hands-on experience with computer vision algorithms. The practicals focus on exploring image processing techniques, feature extraction, and video processing tasks, ensuring a comprehensive understanding of the core concepts in computer vision. 
   
 ---   
 
