@@ -1,8 +1,8 @@
 # Computer Vision Practicals
-       
+
 This repository contains practical experiments designed to provide hands-on experience with computer vision algorithms. The practicals focus on exploring image processing techniques, feature extraction, and video processing tasks, ensuring a comprehensive understanding of the core concepts in computer vision. 
-  
----    
+
+---
 
 ## Overview
 
@@ -41,7 +41,15 @@ This repository serves as a resource for students and enthusiasts to experiment 
   - **Top-hat** and **Black-hat Transformations**
 - Analyze their effects in noise removal and shape extraction.
 
-### Practical 5: Automated MRI Preprocessing System  
+### Practical 5: Advanced 2D Transformations  
+- Implement various image transformations used in real-world applications:
+  - **Negative Transformation** - Enhance contrast in images.
+  - **Logarithmic Transformation** - Improve visibility in low-light images.
+  - **Gamma Correction** - Adjust brightness dynamically.
+  - **Affine Transformation** - Correct geometric distortions.
+  - **Cropping** - Extract regions of interest in images (e.g., satellite imagery).
+
+### Practical 6: Automated MRI Preprocessing System  
 - Develop a preprocessing pipeline for MRI images, which includes:
   - **Automated Cropping** to remove unwanted regions.
   - **2D Transformations** (scaling, rotation) for standardizing image dimensions.
@@ -76,6 +84,5 @@ By working through these practicals, you will:
 1. Implement and test fundamental computer vision algorithms.
 2. Extract and analyze features for object detection and recognition tasks.
 3. Perform image alignment, pattern analysis, and dimensionality reduction.
-4. Execute video processing tasks, including motion com
-
-
+4. Execute video processing tasks, including motion tracking and background subtraction.
+5. Apply 2D transformations for real-world applications like enhancing images, correcting distortions, and extracting meaningful regions.
