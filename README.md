@@ -3,7 +3,7 @@
 This repository contains practical experiments designed to provide hands-on experience with computer vision algorithms. The practicals focus on exploring image processing techniques, feature extraction, and video processing tasks, ensuring a comprehensive understanding of the core concepts in computer vision.    
     
 ---   
- 
+  
 ## Overview
  
 This repository serves as a resource for students and enthusiasts to experiment with various computer vision techniques, starting with basic image operations and advancing to more complex algorithms. Future practicals will expand on foundational knowledge to cover advanced topics.
